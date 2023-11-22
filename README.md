@@ -1,6 +1,6 @@
 # Local-Store-Customer-Analytics
 
-* The project explores concepts such as the fundamental marketing modeling theory segmentation, targeting, positioning, marketing mix, and price elasticity.
+* The project explores concepts such as the fundamental marketing modeling theory segmentation, positioning, and price elasticity.
 
 * Customer Analytics Segmentation: This part focuses on customer segmentation. It involves the application of hierarchical and flat clustering techniques for dividing customers into groups. It also features applying the Principal Components Analysis (to reduce the dimensionality of the problem), as well as combining PCA and K means for an even more professional customer segmentation.
 
